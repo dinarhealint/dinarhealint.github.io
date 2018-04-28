@@ -194,7 +194,7 @@ Home sections
 
 .home-section {
 	width: 100%;
-	padding: 150px 0px 150px 0px;
+	padding: 150px 0px 20px 0px;
 }
 
 /* --- heading --- */
@@ -317,7 +317,7 @@ About
 ================================= */
 
 #about .about-img {
-  height: 350px;
+  height: 500px;
   overflow: hidden;
 }
 

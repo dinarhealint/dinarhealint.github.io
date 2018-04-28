@@ -1,6 +1,7 @@
-Thanks for downloading this theme!
+Hello,
 
-Theme Name: Alstar
-Theme URL: https://bootstrapmade.com/alstar-free-parallax-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This is Dinar
+
+Contact me at +65 91080458
+
+Or d.rahimita@gmail.com
